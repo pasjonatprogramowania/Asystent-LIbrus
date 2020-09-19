@@ -7,8 +7,7 @@ To jest małe rozszerzenie które pomoze ci obliczyć frekwencje i srednia ważo
 #Proces instalacji
 
 Chrome
-- Przejdz na strone rozszerzenia na 
-Chrome Web Store(https://chrome.google.com/webstore/detail/asystent-librus-frekwencj/ignllhpmbnggadkmfabibalgmednlhom)
+- Przejdz na strone rozszerzenia na [Chrome Web Store](https://chrome.google.com/webstore/detail/asystent-librus-frekwencj/ignllhpmbnggadkmfabibalgmednlhom)
 
 
 
