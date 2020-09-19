@@ -24,7 +24,7 @@ Jesli masz jakies pytania, chciałbys zgłosić błąd albo jesteś zainteresowa
 * Gmail: Paw.szew1234@gmail.com
 
 # Informacje
-Wszelkie informacje o tym jak jest obliczana srednia ważona oraz frekwencja znajdują sie w zakładce "Informacje i kontakt" lub "Kim jestem ?"
+Wszelkie informacje o tym jak jest obliczana srednia ważona oraz frekwencja znajdują sie w rozszerzeniu w zakładce "Informacje i kontakt" lub "Kim jestem ?"
 
 # Po co to wszystko ?
 
