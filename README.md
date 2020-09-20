@@ -10,11 +10,23 @@ Chrome
 1. Przejdz na strone rozszerzenia na [Chrome Web Store](https://chrome.google.com/webstore/detail/asystent-librus-frekwencj/ignllhpmbnggadkmfabibalgmednlhom)
 2. Kliknij przycisk "DODAJ DO CHROME"
 3. Potwierdź wymagane uprawnienia
+4. Przejdz na strone librusa i wejdz w zakładke frekwencja 
+5. Kliknij na ikone rozserzenia na pasku zadan
 
 Opera
 1. Przejdz na strone rozszerzenia na [Opera Addons](https://addons.opera.com/pl/extensions/details/asystent-librus-frekwencja-i-srednia/)
 2. Kliknij przycisk "DODAJ DO CHROME"
 3. Potwierdź wymagane uprawnienia
+4. Przejdz na strone librusa i wejdz w zakładke frekwencja 
+5. Kliknij na ikone rozserzenia na pasku zadan
+
+Mobilnie
+1. Pobierz przeglądarke [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=pl) ze sklepu play
+2. Przejdz na strone rozszerzenia na [Chrome Web Store](https://chrome.google.com/webstore/detail/asystent-librus-frekwencj/ignllhpmbnggadkmfabibalgmednlhom)
+3. Kliknij przycisk "DODAJ DO CHROME"
+4. Potwierdź wymagane uprawnienia
+5. Przejdz na strone librusa i wejdz w zakładke frekwencja 
+6. Kliknij na ikone rozserzenia na pasku zadan
 
 # Kontakt
 
