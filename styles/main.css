@@ -1,6 +1,8 @@
 body {
     width: 345px;
     height: 600px;
+    background-color: white;
+    color: black;
 }
 
 .header {
