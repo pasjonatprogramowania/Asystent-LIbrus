@@ -28,13 +28,6 @@ Mobilnie
 5. Przejdz na strone librusa i wejdz w zakładke frekwencja 
 6. Kliknij na ikone rozserzenia na pasku zadan
 
-# Kontakt
-
-Jesli masz jakies pytania, chciałbys zgłosić błąd albo jesteś zainteresowany wspołpracą
-
-* [Messager](https://www.messenger.com/t/100011516688455)
-* Gmail: Paw.szew1234@gmail.com
-
 # Informacje
 Wszelkie informacje o tym jak jest obliczana srednia ważona oraz frekwencja znajdują sie w rozszerzeniu w zakładce "Informacje i kontakt" lub "Kim jestem ?"
 
